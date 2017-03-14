@@ -5,7 +5,7 @@ namespace ConsoleUtil
     {
         static void Main(string[] args)
         {
-            WriteLine(0);
+            WriteLine("Publish to GitHub");
             ReadLine();
         }
     }
